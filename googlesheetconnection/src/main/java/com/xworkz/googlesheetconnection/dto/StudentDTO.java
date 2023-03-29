@@ -11,6 +11,6 @@ public class StudentDTO {
 
 	private String studentName;
 	private String email;
-	private int contactNumber;
+	private String contactNumber;
 	private String address;
 }
