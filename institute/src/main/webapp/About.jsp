@@ -8,6 +8,7 @@
 <%@include file="all_css.jsp"%>
 </head>
 <body>
+<h1>Hello</h1>
 	<%@include file="Navbar.jsp"%>
 <h5>Enterprise Application Expertise Team
 We have been training and placing students over a decade now in various training institutes, we are the pioneers who introduced different training models which not only focus on theory but on practical implementations.
